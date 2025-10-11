@@ -2,12 +2,15 @@
 
 MEng Mechanical Engineering with Mechatronics Final Project. The aim of which was to create a multi-locomotion robot with versatile application. I lead this project as chairman, achieving 75%.
 
-<img width="941" height="811" alt="image" src="https://github.com/user-attachments/assets/bcdc8670-aa92-4c57-9a78-10de24b98711" />
+<img width="470" height="405" alt="image" src="https://github.com/user-attachments/assets/bcdc8670-aa92-4c57-9a78-10de24b98711" />
 
 
 ## Summary
 The project integrates a limbed carbon fibre jumping mechanism, which generates high releases forces once compressed - an adaption of mechanism with proven success throughout research, but requiring heavy modification to suit our requirements - at low additional mass to the resulting wheeled robot. This is paired with a unique electromagnetic latching system, using high tensile string - wound on a actuated pulley mechanism - to compress the carbon limbs, allowing for the electromagnet to activate, and be primed for release at will. These mechanisms are mounted on to an ultra-light carbon-PLA chassis, with optimised TPU airless tyres - giving extreme impact resistance, and standard electronics, allowing 2.11m/s differential-drive speed and remote control from 1km distance.
+The code for the wireless control, for driving, latch winding, jump release, etc:
 
+[`robot-reciever.cpp`](https://github.com/seb-philo/jumping-robot/blob/main/robot-reciever.cpp)
+[`controller-transmitter`](https://github.com/seb-philo/jumping-robot/blob/main/controller-transmitter.cpp)
 
 <img width="2066" height="1779" alt="Picture2" src="https://github.com/user-attachments/assets/70fb4da6-2977-4b1d-a411-a80cd2085369" />
 
