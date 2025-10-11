@@ -1,6 +1,6 @@
 # Design of an Intelligent Jumping Robot
 
-MEng Mechanical Engineering with Mechatronics Final Team Project. The aim of which was to create a multi-locomotion robot with versatile application. I lead this project as chairman, achieving 75%.
+MEng Mechanical Engineering with Mechatronics final team project. The aim of which was to create a multi-locomotion robot with versatile application. I lead this project as chairman, achieving 75%.
 
 <img width="470" height="405" alt="image" src="https://github.com/user-attachments/assets/bcdc8670-aa92-4c57-9a78-10de24b98711" />
 
